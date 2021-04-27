@@ -334,7 +334,7 @@
 }
 
 
-@media only screen and (max-width: 992px) {
+@media screen and (max-width: 992px) {
   .wrapper{
     padding: 0 10px;
   }
@@ -358,7 +358,7 @@
   
 }
 
-@media only screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
   
   .search-input{
     width: 150px;
@@ -460,7 +460,7 @@
   
 }
 
-@media only screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
 
   .search-form{
     margin-top: 5px;
